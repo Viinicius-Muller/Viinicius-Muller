@@ -70,10 +70,10 @@
 
 <p align="center">
   <a href="https://github.com/Viinicius-Muller/inventory-stock-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viinicius-muller&repo=inventory-stock-manager" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viinicius-muller&repo=inventory-stock-manager&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/Viinicius-Muller/transbras-portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viinicius-muller&repo=transbras-portfolio" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viinicius-muller&repo=transbras-portfolio&theme=dark&hide_border=true" />
   </a>
 </p>
 
