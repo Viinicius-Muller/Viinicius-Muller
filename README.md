@@ -17,7 +17,7 @@
 
 </div>
 
-<a href="https://vinicius-muller.dev"> <img width="260px" height="260px" align="right" alt="Github" src="https://media1.tenor.com/m/suspytVqEIcAAAAC/java-my-beloved.gif" /> <a/>
+<a href="https://vinicius-muller.dev"> <img width="180px" height="180px" align="right" alt="Github" src="https://media1.tenor.com/m/suspytVqEIcAAAAC/java-my-beloved.gif" /> <a/>
 
 - 👨🏽‍💻 I’m a 19 years old student at **[PUCPR](https://www.pucpr.br/)** - Curitiba 
 - 🌱 Working with and studying Java with Spring Boot
@@ -26,6 +26,7 @@
 - 🤔 Currently trying to learn more about DevOps
 - 💬 Looking for programming opportunities
 - 📫 Reach me on: (+55) 47 98873-1818
+
 
 
 <div align="center">
