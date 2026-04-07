@@ -35,8 +35,6 @@
 
 </div>
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=viinicius-muller&show_icons=true&hide_border=true&theme=dark" />
-
 #### **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,23 +56,8 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<br clear="right"/>
-
 
 
 <div align="center">
-
-### Some Personal Projects
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/Viinicius-Muller/inventory-stock-manager">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viinicius-muller&repo=inventory-stock-manager&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Viinicius-Muller/transbras-portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viinicius-muller&repo=transbras-portfolio&theme=dark&hide_border=true" />
-  </a>
-</p>
 
 <!-- Readme credits to -> Murillo Comino - https://github.com/onimur -->
